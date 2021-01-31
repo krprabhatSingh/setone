@@ -1,0 +1,13 @@
+We need to create three seperate branch for Dev, UAT, Prod
+
+Step 1 : Create three branch in a single repository.
+         command : git branch dev
+                   git branch uat
+                   git branch prod
+
+Step 2 : Push all the branches on github to simulate the same code.
+         command : git checkout prod
+                   git add .
+                   git commit -m "Inital commit"
+
+Step 3 : 
