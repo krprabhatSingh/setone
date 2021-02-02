@@ -1,0 +1,19 @@
+1) what is the difference between list and tuple
+2) what is negativ indexing
+3) what is the use of __init__ classmethod
+4) what is self parameter
+5) difference b/w local and globals() variables
+6) What is annymous function
+7) what is decorator  with example
+8) what is generator with example
+9) Type of argument 
+10) what is class and object
+11) what is the use of super keyword
+12) what is inheritance and its type
+13) what pandas
+14) what all the function we are using to import the excel file
+15) main methods avilable in pandas
+16) difference b/w iloc and locals()
+17) what is numpy and it's usese
+18) method which we used in numpy
+19) what is matplotlib and it's usese
